@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 #coding=utf-8
 #The Credit For This Code Goes To XP-TRICKER
-#If You Wanna Take Credits For This Code, Please Look Yourself Again...
+#If You Wanna Take Credits For This Code, i well fuck u...
 #Reserved2020
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -47,7 +47,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.001)
 
-#Dev:xp-tricker
+#Dev:HajiAli-tricker
 ##### LOGO #####
 logo = """
 
