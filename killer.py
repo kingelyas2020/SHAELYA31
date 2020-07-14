@@ -126,10 +126,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://t.me/joinchat/Qz5x-ETuIryQzfP7o-eEzw')
+            os.system('xdg-open https://t.me/joinchat/AAAAAEZGi9r7acZg0PcDTw')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://t.me/joinchat/Qz5x-ETuIryQzfP7o-eEzw ')
+        os.system('xdg-open https://t.me/joinchat/AAAAAEZGi9r7acZg0PcDTw ')
 
 def login():
 	os.system('clear')
